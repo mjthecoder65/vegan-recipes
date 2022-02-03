@@ -1,1 +1,1 @@
-# vegan-recipes
+# Vegan Recipes API
