@@ -5,4 +5,4 @@ server.log
 start.py
 **/.vscode/
 NOTES.md
-**/__pytest_cache__
+**/.pytest_cache__
