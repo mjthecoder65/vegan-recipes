@@ -1,4 +1,8 @@
-NOTES.md
+**/__pycache__
+**/migrations
+**/custom_settings*.py
+server.log
+start.py
 .vscode/
-__pycache__/
-.pytest_cache/
+NOTES.md
+.pytest_cache
