@@ -3,6 +3,6 @@
 **/custom_settings*.py
 server.log
 start.py
-.vscode/
+**/.vscode/
 NOTES.md
-.pytest_cache
+**/__pytest_cache__
